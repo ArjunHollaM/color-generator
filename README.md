@@ -57,4 +57,4 @@ In order to help new open souce enthusiasts to contribute, you can find some "go
 ### Hosting
 
 The following link will take you directly to our website by clicking on it or you can copy and paste this link on your browser
-![https://arjunhollam.github.io/color-generator/](https://arjunhollam.github.io/color-generator/)
+(https://arjunhollam.github.io/color-generator/)
