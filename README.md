@@ -22,25 +22,24 @@ This is a color generator website which can be used to find different shades of 
 
 5. Start the local environment server using `npm start`
 
-## Screenshots
+## Screenshots & Demos
 
 This is what you will see when you visit the website.
 ![Main Page](/screenshots/main.png)
 
 Type in your color / color code and press 'Submit' to get different shades of the color you typed:
-<!--Screenshot-->
+![input](/screenshots/Input.mp4)
 
 Input using color picker:
-<!--Screenshot-->
+![input](/screenshots/Color pick.mp4)
 
 Obtaining shades of a generated random color using 'Random Color Generator':
-<!--Screenshot-->
+![input](/screenshots/Random.mp4)
 
 Select shade variation using 'Select Variation':
-<!--Screenshot-->
+![input](/screenshots/Variation.mp4)
 
-Copying the color code of a shade:
-<!--Screenshot-->
+Click on the color of your choice to copy the color code to clipboard. 
 
 ## Contribution Guidelines
 
