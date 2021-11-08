@@ -36,6 +36,8 @@ Input using color picker:
 Obtaining shades of a generated random color using 'Random Color Generator':
 ![input](/screenshots/Random.mp4)
 
+https://user-images.githubusercontent.com/67258488/140789699-98f181b2-22dd-488c-8fe4-3b06a057d66a.mp4
+
 Select shade variation using 'Select Variation':
 ![input](/screenshots/Variation.mp4)
 
