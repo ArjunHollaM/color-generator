@@ -12,15 +12,15 @@ This is a color generator website which can be used to find different shades of 
 
 ## Installation
 
-1.Fork the repository to your Github account with the Fork option at the top right of the screen
+1. Fork the repository to your Github account with the Fork option at the top right of the screen
 
-2.Clone the Project to your local environment by copying the url of the repositiory `git clone`
+2. Clone the Project to your local environment by copying the url of the repositiory `git clone`
 
-3.Get into the project repo by `cd v33-toucans-team-03`
+3. Get into the project repo by `cd v33-toucans-team-03`
 
-4.Install all the dependencies using the npm packages `npm install`
+4. Install all the dependencies using the npm packages `npm install`
 
-5.Start the local environment server using `npm start`
+5. Start the local environment server using `npm start`
 
 ## Screenshots
 
