@@ -24,22 +24,41 @@ This is a color generator website which can be used to find different shades of 
 
 ## Screenshots & Demos
 
-This is what you will see when you visit the website.
+**This is what you will see when you visit the website.**
+
 ![Main Page](/screenshots/main.png)
 
-Type in your color / color code and press 'Submit' to get different shades of the color you typed:
+
+**Type in your color / color code and press 'Submit' to get different shades of the color you typed:**
+
+
 https://user-images.githubusercontent.com/67258488/140790037-07865c00-d320-44ba-868d-46fd569b2b4a.mp4
 
-Input using color picker:
+
+
+**Input using color picker:**
+
+
 https://user-images.githubusercontent.com/67258488/140789943-57d338a3-05b5-45a9-8269-0b642a3f59a4.mp4
 
-Obtaining shades of a generated random color using 'Random Color Generator':
+
+
+**Obtaining shades of a generated random color using 'Random Color Generator':**
+
+
 https://user-images.githubusercontent.com/67258488/140789909-89f95e13-e412-4d55-aa3b-d00cdea3d49d.mp4
 
-Select shade variation using 'Select Variation':
+
+
+**Select shade variation using 'Select Variation':**
+
+
 https://user-images.githubusercontent.com/67258488/140789699-98f181b2-22dd-488c-8fe4-3b06a057d66a.mp4
 
-Click on the color of your choice to copy the color code to clipboard. 
+
+
+**Click on the color of your choice to copy the color code to clipboard.** 
+
 
 ## Contribution Guidelines
 
