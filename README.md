@@ -31,7 +31,7 @@ Type in your color / color code and press 'Submit' to get different shades of th
 ![input](/screenshots/Input.mp4)
 
 Input using color picker:
-![input](/screenshots/Color pick.mp4)
+![input](/screenshots/Color_pick.mp4)
 
 Obtaining shades of a generated random color using 'Random Color Generator':
 ![input](/screenshots/Random.mp4)
